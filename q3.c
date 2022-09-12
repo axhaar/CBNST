@@ -1,5 +1,7 @@
 // Regular Falsi
 
+// 0 1, 0.001
+
 #include<stdio.h>
 #include<math.h>
 
