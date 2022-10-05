@@ -39,8 +39,6 @@ int main()
       }
    }
    else
-   {
      printf("Wrong Intervall try again!! \n");
-   }
    return 0;
  }
