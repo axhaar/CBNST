@@ -19,8 +19,6 @@ float diff_func (float x)
 }
 int main () {
 
-    printf("Name: Abhinav Bahuguna \t Student ID: 20011541\n"); 
-
     float x0, x, x1, err; 
     int iter=1; 
     printf ("Enter the value of x0: "); 
