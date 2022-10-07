@@ -1,5 +1,6 @@
 #include <stdio.h> 
 #include <math.h>
+
 // first eqn 
 // (1.0/3.0)*(cos (x) + 1); 
 // differentiation=  fabs (- sin (x) / 3.0);
