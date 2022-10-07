@@ -26,7 +26,7 @@ int main()
       
       while(fabs(fx(x))>er)
       {
-        x= a-((b-a)/(fx(b)-fx(a)))*fx(a);
+        x = a-((b-a)/(fx(b)-fx(a)))*fx(a);
         printf("%d Iteration for %f and %f, the value x is: %f \n",it,a,b,x);
         
         if(fabs(fx(x))<er)
