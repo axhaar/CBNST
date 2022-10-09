@@ -39,7 +39,7 @@ int main()
         backs[i]=(a[i][n]-s)/a[i][i];
 
     }
-
+    
     printf("The Values of unknowns are:\n");
     for(int i=0;i<n;i++)
         printf("x%d: %6.0f\n",i,backs[i]);
